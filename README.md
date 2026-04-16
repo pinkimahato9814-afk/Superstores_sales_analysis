@@ -2,7 +2,11 @@
 
 
 
+# Super Store Sales Dashboard
 
+![Dashboard Preview](./dashboard_preview.png)
+
+[Open Full Dashboard PDF](./superstore_sales_analysis_dashboardPDF.pdf)
 
 
 
