@@ -12,6 +12,11 @@
 What is the total sales and total profit?
 Is the business profitable overall?
 What is the profit margin (Profit / Sales)?
+  total sales : 1565804.32
+  total profit : 175262.11
+  Profit Margin: 11.19 %
+
+“The total sales are approximately 1.56 million, with a total profit of around 175 thousand. This indicates the business is profitable. However, the profit margin is about 11%, suggesting moderate efficiency. There is scope to improve profitability by optimizing cost-heavy areas like shipping modes, discounts, or underperforming categories.”
 
 
 
