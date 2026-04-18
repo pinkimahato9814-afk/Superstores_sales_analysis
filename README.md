@@ -188,6 +188,10 @@ Is there a cost vs benefit tradeoff in shipping modes?
 
 ![Dashboard](ship_mode_analysis.png)
 
+<mark>insights<mark>
+
+
+The Standard Class shipping mode is the most widely used, generating the highest number of orders, sales, and overall profit, making it the most efficient and cost-effective option for the business. In contrast, faster shipping methods like First Class and Same Day are used less frequently and contribute significantly lower sales and profit, indicating that speed does not necessarily drive higher revenue. While quicker shipping reduces delivery time, it does not translate into better financial performance, suggesting a clear cost-benefit tradeoff. Overall, customers prefer Standard Class due to its balance between cost and delivery time, making it the most valuable shipping mode for sustaining profitability.
 
 
 # <mark> 7. Payment Mode <mark>
