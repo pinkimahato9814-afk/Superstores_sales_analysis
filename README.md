@@ -77,14 +77,17 @@ Are there sub-categories with high sales but low profitability?
   These areas may need pricing or cost optimization
   
 <mark>Sales vs Profit Trend<mark>
+
   Most sub-categories follow a positive trend (higher sales → higher profit)
   However, some exceptions (like Tables) break this pattern, indicating inefficiencies
 
 <mark>meaningful insight<mark>
+
   Focus on Technology and high-profit sub-categories (Copiers, Phones, Accessories)
   Improve or rethink strategy for Furniture category, especially Tables
   Optimize pricing/discount strategies for low-profit sub-categories
   Leverage Office Supplies volume while improving its margins
+
 
 # <mark> 4. Region Analysis <mark>
 
