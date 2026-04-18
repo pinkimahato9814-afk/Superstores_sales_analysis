@@ -98,6 +98,42 @@ Why might West region be performing better (if visible)?
 
 ![Dashboard](region_analysis.png)
 
+
+<mark>Regional Performance (Sales & Profit)<mark>
+
+  West region has the highest sales and profit, making it the best-performing region overall
+  East region is the second strongest, with solid sales and good profitability
+  Central and South regions lag behind in both sales and profit
+<mark>Profitability Insights<mark>
+
+  West is the most profitable region, driven by strong performance across categories
+  Central region shows weak profitability, despite moderate sales
+  South region has the lowest overall performance, but remains slightly profitable
+  
+<mark>Loss / Low Performance Areas<mark>
+  
+  Central region shows a loss in Furniture category, which is a key concern
+  Other regions maintain positive profit across categories
+
+<mark>Category Contribution by Region<mark>
+
+    Technology and Office Supplies drive most of the profit in all regions
+    Furniture is the weakest category, especially in Central
+    
+<mark>Why West is Performing Better<mark>
+
+    Strong contribution from Office Supplies and Technology
+    Balanced performance across all categories (no major losses)
+    Higher sales volume leading to higher overall profit
+
+ <mark>key points<mark>
+ 
+    Focus on scaling strategies used in the West region
+    Improve Central region performance, especially fixing Furniture losses
+    Strengthen South region growth through better sales strategies
+     Continue leveraging Technology and Office Supplies as key profit drivers
+     
+
 # <mark> 5. State-Level Insights (Map)<mark>
 Which states generate the highest profit?
 Are there states with negative profit (loss)?
@@ -106,6 +142,8 @@ Is profit concentrated in a few states or spread evenly?
 
 
 ![Dashboard](state_level_insights.png)
+
+
 
 # <mark> 6. Ship Mode Analysis <mark>
 Which shipping mode is most used?
