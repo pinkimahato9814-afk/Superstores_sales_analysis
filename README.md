@@ -51,6 +51,37 @@ Are there sub-categories with high sales but low profitability?
 
 ![Dashboard](category_and_subcategory_analysis.png)
 
+<mark>Category Performance<mark>
+  **Office Supplies** has the highest sales, making it the top revenue-generating category
+  **Technology** generates the highest profit, indicating better margins and efficiency
+  **Furniture** has relatively good sales but very low profit, showing weak profitability
+
+<mark>Profitability Insight<mark>
+
+  **Technology is the most profitable category**, followed by Office Supplies
+  **Furniture underperforms in profit**, suggesting high costs or heavy discounts
+
+<mark>Sub-Category Highlights<mark>
+  
+  Copiers generate the highest profit among all sub-categories
+  Other strong performers include Accessories, Phones, and Paper
+  These sub-categories combine good sales with strong profitability
+  
+<mark>Low Profit / Loss Areas<mark>
+
+  Tables show a loss despite having noticeable sales → major concern
+  Bookcases and Supplies have low profitability relative to their sales
+  These areas may need pricing or cost optimization
+  
+<mark>Sales vs Profit Trend<mark>
+  Most sub-categories follow a positive trend (higher sales → higher profit)
+  However, some exceptions (like Tables) break this pattern, indicating inefficiencies
+
+<mark>meaningful insight<mark>
+  Focus on Technology and high-profit sub-categories (Copiers, Phones, Accessories)
+  Improve or rethink strategy for Furniture category, especially Tables
+  Optimize pricing/discount strategies for low-profit sub-categories
+  Leverage Office Supplies volume while improving its margins
 
 # <mark> 4. Region Analysis <mark>
 
