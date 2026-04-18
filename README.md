@@ -44,6 +44,7 @@ The Consumer segment is the top performer, generating the highest sales and prof
 
 #  <mark> 3. Category & Sub-Category <mark>
 
+
 Which category has the highest sales?
 Which category contributes the most profit?
 Which sub-category performs best (e.g., Phones, Chairs, Binders)?
@@ -52,14 +53,16 @@ Are there sub-categories with high sales but low profitability?
 ![Dashboard](category_and_subcategory_analysis.png)
 
 <mark>Category Performance<mark>
+
   **Office Supplies** has the highest sales, making it the top revenue-generating category
   **Technology** generates the highest profit, indicating better margins and efficiency
   **Furniture** has relatively good sales but very low profit, showing weak profitability
 
 <mark>Profitability Insight<mark>
 
-  **Technology is the most profitable category**, followed by Office Supplies
-  **Furniture underperforms in profit**, suggesting high costs or heavy discounts
+
+   **Technology is the most profitable category**, followed by Office Supplies
+   **Furniture underperforms in profit**, suggesting high costs or heavy discounts
 
 <mark>Sub-Category Highlights<mark>
   
