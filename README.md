@@ -254,7 +254,9 @@ Which areas need cost reduction or strategy change?
 ![Dashboard](advance_business_insights.png)
 
 
+<mark> overal Abstract<mark>
 
+The business shows strong overall growth, with sales and profits increasing over time, especially in 2020 compared to 2019. The Consumer segment is the main driver of revenue and profit, while Corporate provides stability and Home Office offers growth potential. From a product perspective, Technology is the most profitable category, while Office Supplies leads in sales, and Furniture underperforms in profit, with some loss-making sub-categories like Tables. Regionally, the West and East regions perform best, whereas the Central region shows weaknesses, including losses in certain categories. At the state level, profit is highly concentrated, with California leading significantly, while some states like Texas incur losses, indicating imbalance. Operationally, Standard Class shipping dominates, proving most cost-effective, while faster shipping adds less value. Customers strongly prefer Cash on Delivery (COD), which also generates the highest sales and profit, followed by online payments. Finally, sales show clear seasonality, peaking in the last quarter (Nov–Dec), though profit does not always increase proportionally, highlighting cost and discount impacts. Overall, the business is growing well but depends heavily on key segments, regions, and states, with opportunities to improve profitability in weaker areas.
 
 
 
