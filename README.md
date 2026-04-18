@@ -145,6 +145,40 @@ Is profit concentrated in a few states or spread evenly?
 
 
 
+
+
+<mark>Top Performing States<mark>
+
+        California generates the highest profit by a significant margin, making it the most valuable state
+        New York and Washington follow as strong contributors to overall profitability
+        Other states like Michigan, Indiana, and Georgia provide moderate but steady profit
+        
+<mark>Loss-Making States<mark>
+
+        Several states are operating at a loss, with Texas showing the highest negative profit
+        Other loss-making states include Illinois, Ohio, Pennsylvania, and Colorado
+        These states require attention in terms of cost control or pricing strategies
+        
+<mark>Profit Distribution<mark>
+
+        Profit is highly concentrated in a few top states rather than evenly distributed
+        The top 10 states contribute the majority of total profit
+        After the top performers, the contribution drops off quickly
+
+<mark>California vs Other States<mark>
+        
+        California clearly outperforms all other states in profitability
+        It acts as the primary driver of overall business profit
+        
+<mark> Key Takeaways<mark>
+
+        Focus on maintaining and expanding success in top states like California and New York
+        Investigate and fix issues in loss-making states (especially Texas)
+        Reduce dependency on a few states by improving performance in mid- and low-tier states
+        Optimize regional strategies to achieve more balanced profit distribution
+
+
+
 # <mark> 6. Ship Mode Analysis <mark>
 Which shipping mode is most used?
 Does faster shipping (First Class / Same Day) lead to higher sales?
