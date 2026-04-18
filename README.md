@@ -42,6 +42,7 @@ Which category contributes the most profit?
 Which sub-category performs best (e.g., Phones, Chairs, Binders)?
 Are there sub-categories with high sales but low profitability?
 
+![Dashboard](category_and_subcategory_analysis.png)
 
 # <mark> 4. Region Analysis <mark>
 
