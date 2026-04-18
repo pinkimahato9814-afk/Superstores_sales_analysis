@@ -204,6 +204,11 @@ What percentage of customers use COD vs Online vs Cards?
 
 ![Dashboard](payment_mod_analysis.png)
 
+<mark> Insights<mark>
+
+
+Cash on Delivery (COD) is the most preferred payment method, accounting for the largest share of customers and generating the highest sales and profit, making it the most impactful payment mode for the business. Online payments follow as the second most popular option, contributing significantly to both sales and profitability, while card payments are the least used and generate the lowest revenue and profit. This indicates that customers still strongly prefer COD over digital methods, although online payments are gaining traction. Overall, payment preference directly aligns with performance, as the most used methods (COD and Online) also drive the majority of sales and profit.
+
 
 # <mark>8. Time Series (Monthly Sales) and. Profit Trends <mark>
 
