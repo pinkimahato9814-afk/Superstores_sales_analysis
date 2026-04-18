@@ -44,6 +44,7 @@ Are there sub-categories with high sales but low profitability?
 
 ![Dashboard](category_and_subcategory_analysis.png)
 
+
 # <mark> 4. Region Analysis <mark>
 
 Which region (West, East, Central, South) has the highest sales?
@@ -51,6 +52,7 @@ Which region is most profitable?
 Are there regions with losses or low performance?
 Why might West region be performing better (if visible)?
 
+![Dashboard](region_analysis.png)
 
 # <mark> 5. State-Level Insights (Map)<mark>
 Which states generate the highest profit?
@@ -59,12 +61,16 @@ How does California compare to other states?
 Is profit concentrated in a few states or spread evenly?
 
 
+![Dashboard](state_level_insights.png)
+
 # <mark> 6. Ship Mode Analysis <mark>
 Which shipping mode is most used?
 Does faster shipping (First Class / Same Day) lead to higher sales?
 Which shipping mode generates the most profit?
 Is there a cost vs benefit tradeoff in shipping modes?
 
+
+![Dashboard](ship_mode_analysis.png)
 
 
 
@@ -75,7 +81,11 @@ Which payment mode is most preferred?
 Does any payment method contribute to higher sales or profit?
 What percentage of customers use COD vs Online vs Cards?
 
-# <mark>8. Time Series (Monthly Sales)<mark>
+
+![Dashboard](payment_mod_analysis.png)
+
+
+# <mark>8. Time Series (Monthly Sales) and. Profit Trends <mark>
 
 
 How do sales trends change over months?
@@ -85,13 +95,11 @@ How does 2019 compare to 2020?
 Is there a growth trend over time?
 
 
-# <mark> 9. Profit Trends <mark>
-
-
 Are profits consistent across months?
 Are there months with losses?
 Does higher sales always mean higher profit?
 
+![Dashboard](monthly_sales_trand_and_profit_trand.png)
 
 
 # <mark> 10. Business Insights (Advanced <mark> 
@@ -103,6 +111,7 @@ Where should the company focus to increase profit?
 Which areas need cost reduction or strategy change?
 
 
+![Dashboard](advance_business_insights.png)
 
 
 
