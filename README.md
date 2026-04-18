@@ -32,6 +32,13 @@ How does Consumer vs Corporate vs Home Office compare?
 
 ![Dashboard](segment_analysis.png)
 
+The Consumer segment is the top performer, generating the highest sales and profit, making it the most valuable segment for the business. The Corporate segment shows moderate performance with steady sales and profit, acting as a reliable contributor. Meanwhile, the Home Office segment has the lowest sales and profit but remains profitable, indicating potential for growth. Overall, all segments are performing efficiently with a clear positive relationship between sales and profit, and there is no segment with high sales but low profitability.
+    
+   # <mark>Overall Insights<mark>
+    
+    All segments are profitable and efficient
+    Strong positive relationship between sales and profit
+    No segment has high sales with low profitability
 
 
 
