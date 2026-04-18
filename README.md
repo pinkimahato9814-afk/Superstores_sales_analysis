@@ -210,7 +210,9 @@ What percentage of customers use COD vs Online vs Cards?
 Cash on Delivery (COD) is the most preferred payment method, accounting for the largest share of customers and generating the highest sales and profit, making it the most impactful payment mode for the business. Online payments follow as the second most popular option, contributing significantly to both sales and profitability, while card payments are the least used and generate the lowest revenue and profit. This indicates that customers still strongly prefer COD over digital methods, although online payments are gaining traction. Overall, payment preference directly aligns with performance, as the most used methods (COD and Online) also drive the majority of sales and profit.
 
 
+
 # <mark>8. Time Series (Monthly Sales) and. Profit Trends <mark>
+
 
 
 How do sales trends change over months?
@@ -219,13 +221,26 @@ Is there seasonality in sales?
 How does 2019 compare to 2020?
 Is there a growth trend over time?
 
-
 Are profits consistent across months?
 Are there months with losses?
 Does higher sales always mean higher profit?
 
 ![Dashboard](monthly_sales_trand_and_profit_trand.png)
 
+<mark>Insights<mark>
+
+The time series analysis shows a clear upward trend in sales, with 2020 consistently outperforming 2019, indicating strong business growth over time. Sales gradually increase throughout the year, peaking in the last quarter (especially November and December), highlighting clear seasonality driven by year-end demand. While profits generally follow sales trends, they are not always consistent, with some fluctuations and occasional dips in certain months, suggesting that higher sales do not always guarantee higher profit. The scatter plot further confirms this mixed relationship, where most high-sales months generate good profit, but a few exceptions indicate cost or discount impacts. Overall, the business experiences steady growth with strong seasonal peaks and moderately aligned profit trends.
+
+
+# <mark>Measure Points<mark>
+        Highest Sales Month: December (~$165K in 2020)
+        Peak Season: November–December (Q4 performance surge)
+        Lowest Sales Months: January–February (~$20K–$40K range)
+        Highest Profit Month: Around October/December (~$18K)
+        Growth Trend: 2020 sales significantly higher than 2019 across most months
+        Seasonality Pattern: Sales increase gradually and spike at year-end
+        Profit Variability: Some mid-year months show lower profit despite decent sales
+        Sales vs Profit Correlation: Positive but not perfectly consistent
 
 # <mark> 10. Business Insights (Advanced <mark> 
 Which combination of:
