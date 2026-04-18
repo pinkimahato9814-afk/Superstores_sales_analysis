@@ -30,6 +30,9 @@ Which segment is most profitable?
 Is there any segment with high sales but low profit?
 How does Consumer vs Corporate vs Home Office compare?
 
+![Dashboard](segment_analysis.png)
+
+
 
 
 #  <mark> 3. Category & Sub-Category <mark>
