@@ -1,10 +1,10 @@
 # <mark>**Super Store Sales Dashboard**<mark>
+![Dashboard](superstore_sales_dashboard.png)
+![Forecast](sales_forcasting_for_15_days.png)
 
 
 
-# Super Store Sales Dashboard
-![Dashboard Preview](./dashboard_preview.png)
-
+# **full dashboard PDF**
 [Open Full Dashboard PDF](./superstore_sales_analysis_dashboardPDF.pdf)
 
 
